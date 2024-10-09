@@ -33,5 +33,5 @@ You can see the working example by opening the `index.html` file in your browser
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CafeMenu.git
+   git clone https://github.com/raquibul04/Cafe_Menu.git
 =======
