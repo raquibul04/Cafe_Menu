@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cafe Menu
 
 This is a simple static web page that showcases a cafe menu for the "Camper Cafe." It displays available coffee and dessert options, along with their prices, in an attractive layout. The project is styled using CSS and includes background images, custom fonts, and layout adjustments.
@@ -34,3 +35,6 @@ You can see the working example by opening the `index.html` file in your browser
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/CafeMenu.git
+=======
+# Cafe_Menu
+>>>>>>> fcdd87be3c2368a873a17c2c9adb20d22315c737
